@@ -8,5 +8,4 @@ streamlit run medftbert_app.py
 
 OR
 Access the Streamlit app
-https://jangg007-biobert-pretrained-biobert-app-8u4iig.streamlit.app/
-
+https://jangg007-med-finetune-bert-medftbert-app-qs2o0p.streamlit.app/
