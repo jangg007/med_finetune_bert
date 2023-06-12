@@ -8,7 +8,7 @@ clone the repository
 
 install the packages in requirements.txt
 
-streamlit run medftbert_app.py
+execute "streamlit run medftbert_app.py"
 
 
 OR
