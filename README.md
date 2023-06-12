@@ -8,7 +8,5 @@ streamlit run medftbert_app.py
 
 OR
 Access the Streamlit app
-https://jangg007-biobert-pretrained-biobert-app-8u4iig.streamlit.app/<img width="698" alt="image" src="https://github.com/jangg007/med_finetune_bert/assets/67539248/406825a5-56f0-4edc-a657-df88d9ed3d53">
-
-
+https://jangg007-biobert-pretrained-biobert-app-8u4iig.streamlit.app/
 
